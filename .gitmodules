@@ -1,0 +1,9 @@
+[submodule "ansible/roles/etckeeper"]
+	path = ansible/roles/etckeeper
+	url = https://github.com/kofonfor/ansible-role-etckeeper.git
+[submodule "ansible/roles/common-utils"]
+	path = ansible/roles/common-utils
+	url = https://github.com/kofonfor/ansible-role-common-utils.git
+[submodule "ansible/roles/ssh-hardening"]
+	path = ansible/roles/ssh-hardening
+	url = https://github.com/dev-sec/ansible-ssh-hardening.git

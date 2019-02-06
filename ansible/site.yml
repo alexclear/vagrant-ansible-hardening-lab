@@ -1,0 +1,6 @@
+- hosts: all
+  become: yes
+  roles:
+  - role: etckeeper
+  - role: common-utils
+  - role: ssh-hardening

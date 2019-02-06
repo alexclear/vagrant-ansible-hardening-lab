@@ -1,0 +1,5 @@
+ssh_compression: true
+ssh_permit_root_login: without-password
+ssh_allow_tcp_forwarding: true
+sftp_enabled: true
+ssh_use_pam: true
