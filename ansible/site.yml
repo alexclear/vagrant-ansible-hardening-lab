@@ -3,5 +3,6 @@
   roles:
   - role: etckeeper
   - role: common-utils
+  - role: docker-io
   - role: ssh-hardening
   - role: os-hardening
