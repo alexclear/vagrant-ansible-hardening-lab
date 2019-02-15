@@ -3,3 +3,6 @@ ssh_permit_root_login: without-password
 ssh_allow_tcp_forwarding: true
 sftp_enabled: true
 ssh_use_pam: true
+sysctl_overwrite:
+  # Enable IPv4 traffic forwarding.
+  net.ipv4.ip_forward: 1
