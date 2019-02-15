@@ -4,3 +4,4 @@
   - role: etckeeper
   - role: common-utils
   - role: ssh-hardening
+  - role: os-hardening
