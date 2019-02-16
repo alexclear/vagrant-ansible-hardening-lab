@@ -16,3 +16,6 @@
 [submodule "ansible/roles/docker.ubuntu"]
 	path = ansible/roles/docker.ubuntu
 	url = https://github.com/angstwad/docker.ubuntu.git
+[submodule "ansible/roles/openstack-hardening"]
+	path = ansible/roles/openstack-hardening
+	url = https://github.com/openstack/ansible-hardening.git
