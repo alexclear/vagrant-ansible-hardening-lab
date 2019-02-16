@@ -5,4 +5,5 @@
   - role: common-utils
   - role: docker-io
   - role: ssh-hardening
+  - role: openstack-hardening
   - role: os-hardening
