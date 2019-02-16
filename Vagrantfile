@@ -28,6 +28,7 @@ Vagrant.configure("2") do |config|
       ansible.inventory_path = "ansible/inventory"
       ansible.become = true
       ansible.limit = "all"
+      ansible.raw_arguments = ["--diff"]
       ansible.raw_ssh_args = ANSIBLE_RAW_SSH_ARGS
     end
   end
