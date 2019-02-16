@@ -1,3 +1,6 @@
+security_rhel7_auditd_space_left_action: SYSLOG
+security_rhel7_auditd_space_left: 75
+security_shadow_utils_create_home: ''
 ssh_compression: true
 ssh_permit_root_login: without-password
 ssh_allow_tcp_forwarding: true
