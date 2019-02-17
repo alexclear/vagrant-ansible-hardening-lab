@@ -6,4 +6,4 @@
   - role: docker-io
   - role: ssh-hardening
   - role: openstack-hardening
-  - role: os-hardening
+  - { role: os-hardening, os_env_umask: '022' }
