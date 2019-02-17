@@ -1,5 +1,6 @@
 ufw_manage_defaults: false
 openstack_hardening_apply_sshd_rules: False
+security_rhel7_session_timeout: 0
 security_rhel7_auditd_space_left_action: SYSLOG
 security_rhel7_auditd_space_left: 75
 security_shadow_utils_create_home: ''
