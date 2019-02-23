@@ -1,3 +1,4 @@
+apt_key_url: "https://download.docker.com/linux/ubuntu/gpg"
 ufw_manage_defaults: false
 openstack_hardening_apply_sshd_rules: False
 security_rhel7_session_timeout: 0
