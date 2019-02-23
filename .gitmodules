@@ -6,7 +6,7 @@
 	url = https://github.com/kofonfor/ansible-role-common-utils.git
 [submodule "ansible/roles/ssh-hardening"]
 	path = ansible/roles/ssh-hardening
-	url = https://github.com/dev-sec/ansible-ssh-hardening.git
+	url = https://github.com/kofonfor/ansible-ssh-hardening.git
 [submodule "ansible/roles/os-hardening"]
 	path = ansible/roles/os-hardening
 	url = https://github.com/dev-sec/ansible-os-hardening.git
@@ -15,7 +15,7 @@
 	url = https://github.com/kofonfor/ansible-role-docker-io.git
 [submodule "ansible/roles/docker.ubuntu"]
 	path = ansible/roles/docker.ubuntu
-	url = https://github.com/angstwad/docker.ubuntu.git
+	url = https://github.com/kofonfor/docker.ubuntu.git
 [submodule "ansible/roles/openstack-hardening"]
 	path = ansible/roles/openstack-hardening
 	url = https://github.com/kofonfor/ansible-hardening.git
