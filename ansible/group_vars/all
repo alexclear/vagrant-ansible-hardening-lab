@@ -1,4 +1,5 @@
 apt_key_url: "https://download.docker.com/linux/ubuntu/gpg"
+os_auth_pw_max_age: 99999
 ufw_manage_defaults: false
 openstack_hardening_apply_sshd_rules: False
 security_rhel7_session_timeout: 0
